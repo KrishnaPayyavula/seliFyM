@@ -8,5 +8,5 @@ I am using the files here to check the requirements and feasibiility of my jasmi
 
 The developers in the project are Sathish Magesh and Krishna.
 
-The functional manager is Uday.
+
 
