@@ -1,0 +1,27 @@
+commit 87a4ad48d55e5280aa608cd79e8bce5e13f318dc (HEAD -> master)
+Author: {YOU} <{YOUR EMAIL}>
+Date:   Sun Jan 27 14:02:48 2019 +0100
+
+    Add text to Bob
+
+commit 8af2ff2a8f7c51e2e52402ecb7332aec39ed540e (origin/master, origin/HEAD)
+Author: {YOU} <{YOUR EMAIL}>
+Date:   Sun Jan 27 13:35:41 2019 +0100
+
+    Add Bob
+
+commit 71a6a9b299b21e68f9b0c61247379432a0b6007c 
+Author: UnseenWizzard <nicola.riedmann@live.de>
+Date:   Fri Jan 25 20:06:57 2019 +0100
+
+    Add Alice
+
+commit ddb869a0c154f6798f0caae567074aecdfa58c46
+Author: Nico Riedmann <UnseenWizzard@users.noreply.github.com>
+Date:   Fri Jan 25 19:25:23 2019 +0100
+
+    Add Tutorial Text
+
+      Changes to the tutorial are all squashed into this commit on master, to keep the log free of clutter that distracts from the tutorial
+
+      See the tutorial_wip branch for the actual commit history
